@@ -1,0 +1,6 @@
+The code is based on Yoon Kim's CNN model for sentence classification. 
+
+Convolutional Neural Networks for Sentence Classification
+EMNLP 2014
+http://arxiv.org/abs/1408.5882
+
